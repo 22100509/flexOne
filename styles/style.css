@@ -1,0 +1,13 @@
+.one {
+    width: 1000px;
+    background-color: turquoise;
+}
+
+.mainDiv {
+    display: flex;
+    border: 8px solid black;
+    align-items: flex-end;
+    height: 100px;
+    justify-content: space-between;
+    flex-flow: row nowrap;
+}
